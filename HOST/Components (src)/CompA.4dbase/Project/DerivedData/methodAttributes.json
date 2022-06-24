@@ -1,0 +1,12 @@
+{
+	"methods": {
+		"CompA": {
+			"timeStamp": "2022-06-24T14:19:51.980Z",
+			"attributes": {
+				"invisible": true,
+				"shared": true,
+				"preemptive": "capable"
+			}
+		}
+	}
+}
