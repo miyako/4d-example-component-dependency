@@ -2,4 +2,4 @@
 
 * A depends on B and C
 * B depends on C
-* C has o¥no dependency
+* C has no dependency
