@@ -5,7 +5,7 @@
 * C has no dependency
 * HOST depends on A, B and C
 
-**Note**; you can not have circular dependency. For example, B can not depend on A which iteself depends on C.
+**Note**; you can not have compiled circular dependency. For example, B can not depend on A which iteself depends on B.
 
 ```4d
 /*
